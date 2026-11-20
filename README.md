@@ -1,149 +1,382 @@
-# 👋 Hi, I'm Muhammad Yousuf
+<!-- ================= HEADER ================= -->
 
-### Senior .NET Developer | Full Stack Engineer | Middleware & API Integration Specialist
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muhammad-yousuf-saleem&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:0284C7&height=190&section=header&text=Muhammad%20Yousuf&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20.NET%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=60&descSize=17&animation=fadeIn" />
+
+<h2>👋 Hi, I'm Muhammad Yousuf</h2>
+
+<h3>Senior .NET Developer | Full Stack Engineer</h3>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Enterprise+Applications;ASP.NET+Core+%7C+C%23+%7C+Angular+%7C+Azure;Middleware+%26+API+Integration+Specialist;Exploring+Applied+AI+with+.NET" />
 </p>
 
-I'm a Senior .NET Developer from Karachi, Pakistan, with **5+ years of professional software development experience** building scalable, secure, and enterprise-grade applications.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=muhammad-yousuf-saleem&label=PROFILE+VIEWS&color=0284C7&style=for-the-badge" />
+</p>
 
-I specialize in designing backend services, developing REST/SOAP APIs, building middleware integration layers, and delivering full-stack solutions using the Microsoft technology ecosystem.
+<p>
+  📍 Karachi, Pakistan &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/yousuf-saleem/">LinkedIn</a> &nbsp; | &nbsp;
+  <a href="mailto:YousufSaleem556@gmail.com">Email Me</a>
+</p>
 
-I've contributed to enterprise banking and digital transformation projects for international clients across Malaysia, UAE, Jordan, and Lebanon.
-
-My interests also extend to **Cloud Engineering, Applied AI, and Generative AI**, particularly building AI-powered applications using C# and .NET.
-
-- 💼 Currently working as a **.NET Core Developer – FinTech**
-- 🚀 Experienced in enterprise application development and middleware integrations
-- 🔌 Designed and developed 50+ REST and SOAP APIs
-- 🏗️ Interested in Microservices, Clean Architecture, CQRS, and scalable backend systems
-- ☁️ Working with Microsoft Azure and Azure DevOps
-- 🤖 Exploring Applied AI and Generative AI with .NET
-- 📚 Currently learning Azure OpenAI, Semantic Kernel, Microsoft.Extensions.AI, RAG, and AI Agents
-- 💬 Ask me about C#, .NET, ASP.NET Core, Web APIs, Angular, Azure, and Middleware Integrations
-- 📫 Reach me at **YousufSaleem556@gmail.com**
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+<!-- ================= ABOUT ================= -->
 
-### Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# and .NET" />
-</p>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-- C#, .NET 8/10, ASP.NET Core
-- ASP.NET Core Web API & Minimal APIs
-- Entity Framework Core, LINQ
-- RESTful APIs & SOAP Services
-- CQRS, MediatR, Clean Architecture
-- Middleware Development & API Integrations
+<h2>👨‍💻 Professional Summary</h2>
 
-### Frontend & Mobile Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Frontend Technologies" />
-</p>
+Senior .NET Developer with **5+ years of experience** building enterprise-grade applications, digital banking platforms, and scalable software solutions.
 
-- Angular, Blazor
-- TypeScript, JavaScript
-- .NET MAUI, Xamarin Forms
-- Responsive Web Applications
+Specialized in ASP.NET Core, C#, REST & SOAP APIs, middleware integrations, microservices, and full-stack development.
 
-### Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github" alt="Cloud and DevOps" />
-</p>
+Experienced in delivering international enterprise solutions and integrating digital channels with core banking systems.
 
-- Microsoft Azure
-- Azure DevOps
-- CI/CD Pipelines
-- IIS Deployment
-- Containerization
+**Currently exploring the next generation of intelligent applications with Applied AI and .NET.**
 
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mssql,postgres" alt="Databases" />
-</p>
+</td>
+<td width="45%" align="center" valign="middle">
 
-- Microsoft SQL Server
-- PostgreSQL
-- SQL Query Optimization
-- Database Design & Performance Optimization
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,azure,docker,postgres,git,github&perline=4" />
 
-### Security & Testing
+<br/><br/>
 
-- OAuth 2.0, JWT, Basic Authentication
-- API Authentication & Authorization
-- Swagger / OpenAPI
-- xUnit & Moq
-- Unit Testing & API Validation
+**5+ Years Experience**
 
----
+**50+ APIs Developed**
 
-## 🤖 Applied AI & Generative AI
+**Enterprise Software Engineering**
 
-I'm expanding my software engineering expertise into Applied AI, focusing on integrating Large Language Models and intelligent capabilities into enterprise applications using C# and .NET.
+</td>
+</tr>
+</table>
 
-**Currently Exploring:**
+<!-- ================= TECHNICAL SKILLS ================= -->
 
-- Azure OpenAI & Azure AI Foundry
-- Microsoft.Extensions.AI
-- Microsoft Semantic Kernel
-- Microsoft Agent Framework
-- Retrieval-Augmented Generation (RAG)
-- Embeddings & Vector Databases
-- Vector Search
-- AI Agents & Function Calling
-- Model Context Protocol (MCP)
-- LLM Integration with .NET
+<h2 align="center">⚡ Technical Arsenal</h2>
 
-**My Goal:** Building practical, production-oriented AI solutions using the Microsoft ecosystem and .NET.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
-
-## 🌍 Professional Experience & Projects
-
-### Enterprise Banking & Middleware Integrations
-
-Contributed to international banking and financial technology solutions:
-
-- **KT Bank Malaysia:** Middleware API integrations connecting retail banking channels with core banking systems.
-- **Ajman Bank – UAE:** Digital banking APIs for customer onboarding, account management, and fund transfers.
-- **Jordan Kuwait Bank – Jordan:** Financial APIs and middleware services for account operations and transaction processing.
-- **Neo by Bank Audi – Lebanon:** Digital banking integrations, financial transaction APIs, POS, KYC, and KYB features.
-
-### Full Stack & Mobile Applications
-
-- **KamKaj:** Cross-platform mobile application developed using .NET MAUI with REST API integration.
-- **Follow Christ Daily:** Xamarin Forms mobile application with ASP.NET Core backend integration.
-
----
-
-## 📊 GitHub Statistics
+<h3 align="center">⚙️ Backend Development</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-yousuf-saleem&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-yousuf-saleem&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET_8%2F10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOAP_API-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CQRS-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediatR-0369A1?style=for-the-badge"/>
 </p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🎨 Frontend & Mobile</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-yousuf-saleem&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge"/>
 </p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">☁️ Cloud & DevOps</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0284C7?style=for-the-badge"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🗄️ Databases & Testing</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Moq-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+<!-- ================= APPLIED AI ================= -->
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yousuf-saleem/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YousufSaleem556@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+<h2 align="center">🤖 Applied AI & Generative AI</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft.Extensions.AI-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agent_Framework-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Search-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-0F766E?style=for-the-badge"/>
+
+</div>
+
+<p align="center">
+  <i>Exploring intelligent software engineering by combining the Microsoft .NET ecosystem with modern AI technologies.</i>
 </p>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🧠 LLM Integration**
+
+Azure OpenAI & LLM APIs
+
+</td>
+<td align="center" width="33%">
+
+**🔍 RAG & Vector Search**
+
+Embeddings & Retrieval
+
+</td>
+<td align="center" width="33%">
+
+**🤖 AI Agents**
+
+Function Calling & MCP
+
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ **Building scalable software, connecting enterprise systems, and exploring the future of AI with .NET.**
+<!-- ================= EXPERIENCE ================= -->
+
+<h2 align="center">💼 Professional Journey</h2>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**Dec 2024 – Present**
+
+<sub>Karachi, Pakistan</sub>
+
+</td>
+<td width="75%">
+
+### .NET Core Developer – FinTech
+
+**Codebase Technologies**
+
+- Developed 50+ REST and SOAP APIs.
+- Built middleware integrations for international banking clients.
+- Implemented OAuth 2.0, JWT and API security.
+- Improved API response times by 30%.
+- Worked with .NET 10, IIS, xUnit and Moq.
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Feb 2023 – Nov 2024**
+
+<sub>Karachi, Pakistan</sub>
+
+</td>
+<td>
+
+### Software Engineer
+
+**Xtecsoft**
+
+- Developed applications using .NET 8, Angular and Entity Framework.
+- Implemented CQRS and MediatR.
+- Built Azure DevOps CI/CD pipelines.
+- Developed KamKaj and Follow Christ Daily mobile applications.
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Apr 2022 – Jan 2023**
+
+<sub>Karachi, Pakistan</sub>
+
+</td>
+<td>
+
+### Junior Software Engineer
+
+**iSplendid**
+
+- Developed ASP.NET Web APIs and backend services.
+- Troubleshot production issues.
+- Improved application performance and reliability.
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Jan 2021 – Apr 2022**
+
+<sub>Karachi, Pakistan</sub>
+
+</td>
+<td>
+
+### Software Engineer Intern
+
+**Dream Beyond**
+
+- Developed software components using C# and .NET.
+- Built web applications and backend services.
+- Performed debugging, testing and documentation.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+<h2 align="center">🌍 International Projects & Solutions</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 KT Bank – Malaysia
+
+Middleware API layer connecting retail banking channels with core banking systems.
+
+`ASP.NET Core` `OAuth 2.0` `REST APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Ajman Bank – UAE
+
+Digital banking middleware and transactional APIs for onboarding, account management and fund transfers.
+
+`C#` `JWT` `Azure DevOps`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Jordan Kuwait Bank – Jordan
+
+Financial APIs and middleware integrations for account services and transaction processing.
+
+`ASP.NET Core` `REST` `SQL Server`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Neo by Bank Audi – Lebanon
+
+Financial transaction APIs, digital banking integrations, POS, KYC and KYB features.
+
+`C#` `Middleware` `API Security`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 KamKaj
+
+Cross-platform mobile application with REST API integration.
+
+`.NET MAUI` `ASP.NET Core`
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Follow Christ Daily
+
+Cross-platform mobile application with backend API integration.
+
+`Xamarin Forms` `ASP.NET Core`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammad-yousuf-saleem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-yousuf-saleem&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-yousuf-saleem&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-yousuf-saleem&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yousuf-saleem/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YousufSaleem556@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Building scalable software, connecting enterprise systems, and exploring the future of AI with .NET.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:075985,100:020617&height=110&section=footer" />
+
+</div>
