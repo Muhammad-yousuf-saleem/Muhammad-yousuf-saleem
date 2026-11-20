@@ -1,33 +1,98 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Muhammad Yousuf</h1>
-<h3 align="center">A passionate Full Stack Dot Net developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-yousuf-saleem&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-yousuf-saleem" /> </p>
+# Hi 👋, I'm Muhammad Yousuf
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Full Stack .NET Developer | Fintech & Cloud Solutions | Applied AI with .NET
 
-- 🔭 I’m currently working on **Full Stack Dot Net Developer**
+I'm a Full Stack .NET Developer from Pakistan with **5+ years of professional experience** building scalable, secure, and enterprise-grade software solutions.
 
-- 🌱 I’m currently learning **Dot Net Development**
+My primary focus is backend engineering, financial technology, API development, microservices architecture, and cloud-based applications. I'm also expanding my expertise into **Applied AI and Generative AI using the Microsoft .NET ecosystem**.
 
-- 💬 Ask me about **Full Stack Technologies**
+- 🔭 Currently working on enterprise-grade .NET applications and financial technology solutions.
+- 💼 5+ years of experience in C#, .NET Core, ASP.NET Core, Web APIs, and Microservices.
+- 🏦 Experienced in Banking, Fintech, Payment APIs, KYC, POS, and Digital Banking Solutions.
+- ☁️ Working with Microsoft Azure cloud services.
+- 🤖 Exploring Applied AI, Generative AI, RAG, and AI integration using .NET.
+- 🌱 Currently learning Azure OpenAI, Microsoft.Extensions.AI, Semantic Kernel, and AI Agent Development.
+- 💬 Ask me about C#, .NET, ASP.NET Core, Web APIs, Microservices, Angular, Azure, and Fintech.
+- 📫 Reach me at: **YousufSaleem556@gmail.com**
 
-- 📫 How to reach me **YousufSaleem556@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 Professional Expertise
+
+- **Backend Development:** C#, .NET Core, .NET 6+, ASP.NET Core, MVC, Web API, Minimal APIs
+- **Frontend Development:** Angular, Blazor, TypeScript, JavaScript
+- **Architecture:** Microservices, RESTful APIs, API Integration, Middleware Development
+- **Databases:** Microsoft SQL Server, PostgreSQL, Entity Framework Core
+- **Cloud & DevOps:** Microsoft Azure, Docker, Kubernetes
+- **Messaging:** RabbitMQ
+- **Security:** Authentication, Authorization, JWT, AES-256, SHA-256, HMAC, Data Masking
+- **Domain Expertise:** Banking, Fintech, Payment Processing, Digital Banking, KYC, POS
+
+## 🤖 Applied AI & Generative AI
+
+Currently expanding my expertise in building AI-powered applications using C# and .NET.
+
+- Azure OpenAI
+- Microsoft.Extensions.AI
+- Microsoft Semantic Kernel
+- Microsoft Agent Framework
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases & Vector Search
+- AI Agents & Function Calling
+- Model Context Protocol (MCP)
+- LLM Integration with .NET
+
+*Focused on practical implementation and integrating AI capabilities into enterprise applications.*
+
+---
+
+## 🛠️ Languages and Technologies
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-yousuf-memon-1b70051a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-yousuf-memon-1b70051a1/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/zeeyan.memon.3597789/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zeeyan.memon.3597789/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/zeeyan_memon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zeeyan_memon/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccxodqzpsdt5yijse2hqkxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccxodqzpsdt5yijse2hqkxg" height="30" width="40" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="45" alt="C#" /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" width="45" alt=".NET" /></a>
+  <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" width="45" alt="Angular" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript" /></a>
+  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://skillicons.dev/icons?i=mssql" width="45" alt="SQL Server" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" width="45" alt="Azure" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker" /></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" alt="Kubernetes" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="45" alt="Linux" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-yousuf-saleem&show_icons=true&locale=en&layout=compact" alt="muhammad-yousuf-saleem" /></p>
+## 🌐 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-yousuf-saleem&show_icons=true&locale=en" alt="muhammad-yousuf-saleem" /></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-yousuf-memon-1b70051a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YousufSaleem556@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-yousuf-saleem&" alt="muhammad-yousuf-saleem" /></p>
-	
+---
+
+## 📊 GitHub Statistics
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-yousuf-saleem&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-yousuf-saleem&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-yousuf-saleem&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+⭐ *Building reliable software today, exploring intelligent solutions for tomorrow.*
